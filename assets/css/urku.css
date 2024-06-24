@@ -1165,29 +1165,30 @@ body {
   padding-top: 100%;
 }
 
-.item-1 {
-  background-image: url("../img/project-1.jpg");
-}
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-1 {
     background-position: center left;
   }
 }
 
+.item-1 {
+  background-image: url("../img/Captura\ de\ pantalla_24-6-2024_103359_looka.com.jpeg");
+}
+
 .item-2 {
-  background-image: url("../img/project-2.jpg");
+  background-image: url("../img/aqua.jpg");
 }
 
 .item-3 {
-  background-image: url("../img/project-3.jpg");
+  background-image: url("../img/boss.jpg");
 }
 
 .item-4 {
-  background-image: url("../img/project-4.jpg");
+  background-image: url("../img/onemillon.jpg");
 }
 
 .item-5 {
-  background-image: url("../img/project-5.jpg");
+  background-image: url("../img/eros.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-5 {
@@ -1196,7 +1197,7 @@ body {
 }
 
 .item-6 {
-  background-image: url("../img/project-6.jpg");
+  background-image: url("../img/sauvage.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-6 {
@@ -1205,47 +1206,15 @@ body {
 }
 
 .item-7 {
-  background-image: url("../img/project-7.jpg");
+  background-image: url("../img/jeanpaul.jpg");
 }
 
 .item-8 {
-  background-image: url("../img/project-8.jpg");
+  background-image: url("../img/212.jpg");
 }
 
 .item-9 {
-  background-image: url("../img/project-9.jpg");
-}
-
-.item-10 {
-  background-image: url("../img/project-10.jpg");
-}
-
-.item-11 {
-  background-image: url("../img/project-11.jpg");
-}
-
-.item-12 {
-  background-image: url("../img/project-12.jpg");
-}
-
-.item-13 {
-  background-image: url("../img/project-13.jpg");
-}
-@media (min-width: 40em) {
-  #layout-grid:checked ~ .rk-portfolio .item-13 {
-    background-position: top right;
-  }
-  #layout-grid:checked ~ .rk-portfolio .item-13 {
-    background-size: 142%;
-  }
-}
-
-.item-14 {
-  background-image: url("../img/project-14.jpg");
-}
-
-.item-15 {
-  background-image: url("../img/project-15.jpg");
+  background-image: url("../img/cars.jpg");
 }
 
 @media (min-width: 40em) {
@@ -1366,7 +1335,7 @@ body {
 }
 
 .post-inside-1 {
-  background-image: url("../img/post-1.jpg");
+  background-image: url("../img/fenta.jpg");
 }
 
 #layout-grid:checked ~ .rk-portfolio,
@@ -1571,7 +1540,7 @@ body {
 }
 
 .post-1 {
-  background-image: url("../img/post-1.jpg");
+  background-image: url("../img/fenta.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-1 {
@@ -1601,7 +1570,7 @@ body {
 }
 
 .post-5 {
-  background-image: url("../img/post-5.jpg");
+  background-image: url("../img/fenta2.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-5 {
@@ -1641,7 +1610,7 @@ body {
 }
 
 .post-1 {
-  background-image: url("../img/post-1.jpg");
+  background-image: url("../img/fenta.jpg");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-1 {
